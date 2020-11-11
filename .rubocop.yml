@@ -4,9 +4,8 @@ require:
 
 AllCops:
   Exclude:
-    - "bin/*"
-    - "Guardfile"
-    - "Rakefile"
+    - 'bin/*'
+    - 'Rakefile'
 
   DisplayCopNames: true
 
